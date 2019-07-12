@@ -4,7 +4,7 @@ take down the experience of start up a webset (from purchase Domain Name||cloud 
 ***
 
 ## Domain name
-ur webset do need a name to access,this name was called Domain name
+ur webset do need a name to access,this name was called Domain name  
 i purchase Domain name on [GoDaddy](https://sg.godaddy.com/)
 1. sign up and login in GoDaddy 
 2. click the donmain buttom and search the donmain name ,make sure it's for sell 
