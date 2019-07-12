@@ -3,4 +3,4 @@ take down the experience try to start up a webset (from purchase Domain Name 、
 
 
 ## Domain name
-i purchase Domain name on [GoDaddy]  https://sg.godaddy.com/
+i purchase Domain name on [GoDaddy](https://sg.godaddy.com/)
