@@ -20,3 +20,11 @@ if your are a student you can have the discount [云翼计划](https://promotion
 we select the ecs and buy  
 ![](https://github.com/JaseGoo/Develop-on-ECS/raw/master/img/2019-07-12_150739.png)
 **use centos 7 system ,it's widely use around the world**
+
+## Configure your CentOS 7 develop environment  
+1. PuTTY was needed to access your server **u can download PuTTY in this poject**  
+2. use your public ip (you can check it on your ECS consol) to log in  
+![](https://github.com/JaseGoo/Develop-on-ECS/raw/master/img/2019-07-12_163405.png)  
+log as:root
+password:(u set on ECS)
+![](https://github.com/JaseGoo/Develop-on-ECS/raw/master/img/2019-07-12_164941.png)
