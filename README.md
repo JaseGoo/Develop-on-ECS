@@ -96,6 +96,6 @@ vi/etc/profile
 
  4. use bin/strartup.sh to start tomcat server
 
- 5. access http://ip:8080/news/    
+ 5. access http://ip:8080/   
 
                   
