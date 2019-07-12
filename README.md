@@ -12,9 +12,10 @@ i purchase Domain name on [GoDaddy](https://sg.godaddy.com/)
 4. complete the necessary information
 
 ## Cloud server ECS
-Everey webset need a server,u can build your server by yourself but it's expensive and difficult
-at present , lot of organization and co chose cloud server.it was provide by the network operators. 
-network operators will ensure the security of your webset. 
-i chose ali to buy a ECS [阿里云](https://www.aliyun.com/)
-if your are a student you can have the discount [云翼计划](https://promotion.aliyun.com/ntms/act/campus2018.html)
-we select the ecs and buy 
+Everey webset need a server,u can build your server by yourself but it's expensive and difficult  
+at present , lot of organization and co chose cloud server.it was provide by the network operators   
+network operators will ensure the security of your webset   
+i chose ali to buy a ECS [阿里云](https://www.aliyun.com/)  
+if your are a student you can have the discount [云翼计划](https://promotion.aliyun.com/ntms/act/campus2018.html)  
+we select the ecs and buy  
+**use centos 7 system ,it's widely use around the world**
