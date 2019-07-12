@@ -29,7 +29,6 @@ log as:root
 password:(u set on ECS)  
 ### install mysql server
     1. download  
-
 wget http://dev.mysql.com/get/Downloads/MySQL-5.6/MySQL-5.6.22-1.el6.i686.rpm-bundle.tar  
 
     2. decompression to /usr/local/mysql
