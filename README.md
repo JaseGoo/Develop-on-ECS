@@ -36,7 +36,7 @@ we select the ecs and buy
 log as:root
 password:(u set on ECS)  
 ### install mysql server
-    1. download  
+    1.download   
 wget http://dev.mysql.com/get/Downloads/MySQL-5.6/MySQL-5.6.22-1.el6.i686.rpm-bundle.tar  
 
     2. decompression to /usr/local/mysql
@@ -70,12 +70,12 @@ yum install glibc.i686
   
 4. configure environment     
 vi/etc/profile
-  add
+  add  
   #setjava environment
     
         JAVA_HOME=/usr/local/java/jdk1.7.0_71
 
-        CLASSPATH=.:$JAVA_HOME/lib.tools.jar
+        CLASSPATH=.:$JAVA_HOME/lib.tools.jar  
         
         PATH=$JAVA_HOME/bin:$PATH
 
