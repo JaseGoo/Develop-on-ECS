@@ -4,11 +4,11 @@ take down the experience of start up a webset (from purchase Domain Name||cloud 
 ***
 # Directory  
  :book:   
-* [Domain name](#domain name)
+* [Domain name](#domainname)
   
   
   
-## Domain name
+## Domainname
 ur webset do need a name to access,this name was called Domain name  
 i purchase Domain name on [GoDaddy](https://sg.godaddy.com/)
   
