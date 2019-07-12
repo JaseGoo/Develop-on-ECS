@@ -18,5 +18,5 @@ network operators will ensure the security of your webset
 i chose ali to buy a ECS [阿里云](https://www.aliyun.com/)  
 if your are a student you can have the discount [云翼计划](https://promotion.aliyun.com/ntms/act/campus2018.html)  
 we select the ecs and buy  
-![purchase](https://github.com/JaseGoo/Develop-on-ECS/tree/master/img/2019-07-12_150739.png)
+https://github.com/JaseGoo/Develop-on-ECS/tree/master/img/2019-07-12_150739.png
 **use centos 7 system ,it's widely use around the world**
