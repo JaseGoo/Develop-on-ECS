@@ -4,11 +4,16 @@ take down the experience of start up a webset (from purchase Domain Name||cloud 
 ***
 # Directory  
  :book:   
-* [Domain name](#domainname)
+* [Domain-name](#domain-name)  
+* [Cloud-server-ECS](#Cloud-server-ECS)  
+* [Configure-your-CentOS-7-develop-environment](# Configure-your-CentOS-7-develop-environment)  
+   * [install-mysql-server](#install-mysql-server)  
+   * [install-JDk](#install-JDk)  
+   * [install-tomcat](#install-tomcat)
   
   
   
-## Domainname
+## Domain-name
 ur webset do need a name to access,this name was called Domain name  
 i purchase Domain name on [GoDaddy](https://sg.godaddy.com/)
   
@@ -20,7 +25,7 @@ i purchase Domain name on [GoDaddy](https://sg.godaddy.com/)
   
 4. complete the necessary information
   
-## Cloud server ECS
+## Cloud-server-ECS
 Everey webset need a server,u can build your server by yourself but it's expensive and difficult  
 at present , lot of organization and co chose cloud server.it was provide by the network operators   
 network operators will ensure the security of your webset  
@@ -34,13 +39,13 @@ we select the ecs and buy
 **use centos 7 system ,it's widely use around the world**
 
   
-## Configure your CentOS 7 develop environment  
+## Configure-your-CentOS-7-develop-environment  
 1. PuTTY was needed to access your server **u can download PuTTY in this poject**  
 2. use your public ip (you can check it on your ECS consol) to log in  
 ![](https://github.com/JaseGoo/Develop-on-ECS/raw/master/img/2019-07-12_163405.png)  
 log as:root
 password:(u set on ECS)  
-### install mysql server
+### install-mysql-server
     1.download   
 wget http://dev.mysql.com/get/Downloads/MySQL-5.6/MySQL-5.6.22-1.el6.i686.rpm-bundle.tar  
 
@@ -62,7 +67,7 @@ tar -xvf MySQL-5.6.22-1.el6.i686.rpm-bundle.tar
             
                     rpm -ivh MySQL-server-5.6.22-1.el6.i686.rpm  
 
-## install JDk 
+### install-JDk 
 1. download jdk-7u55-linux-i586.tar.gz    
 http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html#jdk-7u55-oth-JPR
   
@@ -92,7 +97,7 @@ vi/etc/profile
           
           
             
-## install tomcat  
+### install-tomcat  
  1. upload jdk-7u72-linux-i586.gz to server
  
  2. decompression to  /usr/local/   tar -xzf jdk-7u72-linux-i586.gz
