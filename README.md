@@ -6,7 +6,7 @@ take down the experience of start up a webset (from purchase Domain Name||cloud 
  :book:   
 * [Domain-name](#domain-name)  
 * [Cloud-server-ECS](#Cloud-server-ECS)  
-* [Configure-your-CentOS-7-develop-environment](# Configure-your-CentOS-7-develop-environment)  
+* [Configure-CentOS-environment](# Configure-CentOS-environment)  
    * [install-mysql-server](#install-mysql-server)  
    * [install-JDk](#install-JDk)  
    * [install-tomcat](#install-tomcat)
@@ -39,7 +39,7 @@ we select the ecs and buy
 **use centos 7 system ,it's widely use around the world**
 
   
-## Configure-your-CentOS-7-develop-environment  
+## Configure-CentOS-environment  
 1. PuTTY was needed to access your server **u can download PuTTY in this poject**  
 2. use your public ip (you can check it on your ECS consol) to log in  
 ![](https://github.com/JaseGoo/Develop-on-ECS/raw/master/img/2019-07-12_163405.png)  
