@@ -26,5 +26,29 @@ we select the ecs and buy
 2. use your public ip (you can check it on your ECS consol) to log in  
 ![](https://github.com/JaseGoo/Develop-on-ECS/raw/master/img/2019-07-12_163405.png)  
 log as:root
-password:(u set on ECS)
-![](https://github.com/JaseGoo/Develop-on-ECS/raw/master/img/2019-07-12_164941.png)
+password:(u set on ECS)  
+### install mysql server
+    1. download  
+
+wget http://dev.mysql.com/get/Downloads/MySQL-5.6/MySQL-5.6.22-1.el6.i686.rpm-bundle.tar  
+
+    2. decompression to /usr/local/mysql
+
+tar -xvf MySQL-5.6.22-1.el6.i686.rpm-bundle.tar  
+
+    3. install Mysql_Server 
+
+            1. install ： yum -y install libaio.so.1 libgcc_s.so.1libstdc++.so.6 
+
+            2. update libstdc  
+
+                    yum update libstdc++-4.8.5-11.el7.x86_64  
+
+                    yum update libgcc-4.8.5-11.el7.x86_64  
+
+            3. install mysql_server   
+
+                    rpm -ivh MySQL-server-5.6.22-1.el6.i686.rpm  
+
+## install JDk 
+1. 
